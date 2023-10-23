@@ -3,7 +3,7 @@ Please use the main project until otherwise stated here.
 https://github.com/nullvalue0/WiRSa
 
 Plans: 
-     Port the original code to work with an ESP32 raher than the ESP8266.
+     Port the original code to work with an ESP32 rather than the ESP8266.
      Implement an SSH mode to allow the WiRSa to log into modern servers and network equipment.
 
 ## Original readme follows ##
